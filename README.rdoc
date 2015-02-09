@@ -1,0 +1,21 @@
+== README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Steps for install ruby on rails
+* firstly install rvm(ruby version manager) for manage the multiple ruby version.
+* Install ruby version (2.1.5).
+* Install latest rails version(4.2.0).
+
+* Ruby version => ruby 2.1.5 and rails 4.2.0
+
+* Web Server use => webrick server
+
+* Database use => SqlLite3
+
+* github link => https://github.com/sandeep1988/
+
+* start the server using => rails s
