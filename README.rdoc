@@ -16,6 +16,6 @@ Things you may want to cover:
 
 * Database use => SqlLite3
 
-* github link => https://github.com/sandeep1988/
+* github link => https://github.com/sandeep1988/Codaemon-Softwares
 
 * start the server using => rails s
